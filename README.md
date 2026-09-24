@@ -48,3 +48,8 @@ Camera / Webcam
  Servo Motors
        ↓
  Pick and Place
+```
+## Output
+1) https://drive.google.com/file/d/1eDE4Eiagg1ozD9Rk4fWojJbYoGamdMhA/view
+
+
