@@ -48,3 +48,17 @@ Camera / Webcam
  Servo Motors
        ↓
  Pick and Place
+
+ ## Project Images
+
+### Robotic Arm Model
+![Robotic Arm Model](Arm%20model.png)
+
+### Top View
+![Top View](Arm%20Top%20view.png)
+
+### Object Lifting
+![Object Lifting](Arm%20Object%20Lifting.png)
+
+### Object Dropping
+![Object Dropping](Arm%20Object%20Dropping.png)
